@@ -1,0 +1,15 @@
+{
+  "name": "@biberklatsche/package-script",
+  "version": "0.0.1",
+  "description": "Enhances the auto-completer for the script tag in package.json.",
+  "keywords": [
+    "cogno-plugin"
+  ],
+  "author": "Lars Wolfram",
+  "license": "MIT",
+  "cogno": {
+    "label": "Package Script",
+    "placeholder": "script",
+    "icon": "📦"
+  }
+}
